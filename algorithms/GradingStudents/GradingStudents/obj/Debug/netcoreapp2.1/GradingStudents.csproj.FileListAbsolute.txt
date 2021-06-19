@@ -1,0 +1,11 @@
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.1\GradingStudents.deps.json
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.1\GradingStudents.runtimeconfig.json
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.1\GradingStudents.runtimeconfig.dev.json
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.1\GradingStudents.dll
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\bin\Debug\netcoreapp2.1\GradingStudents.pdb
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.1\GradingStudents.csprojAssemblyReference.cache
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.1\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.1\GradingStudents.AssemblyInfoInputs.cache
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.1\GradingStudents.AssemblyInfo.cs
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.1\GradingStudents.dll
+C:\Users\SOHEL\source\repos\GradingStudents\GradingStudents\obj\Debug\netcoreapp2.1\GradingStudents.pdb

@@ -1,0 +1,10 @@
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp2.1\BirthdayCakeCandles.deps.json
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp2.1\BirthdayCakeCandles.runtimeconfig.json
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp2.1\BirthdayCakeCandles.runtimeconfig.dev.json
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp2.1\BirthdayCakeCandles.dll
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp2.1\BirthdayCakeCandles.pdb
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp2.1\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp2.1\BirthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp2.1\BirthdayCakeCandles.AssemblyInfo.cs
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp2.1\BirthdayCakeCandles.dll
+C:\Users\SOHEL\source\repos\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp2.1\BirthdayCakeCandles.pdb
