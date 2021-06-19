@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\hacker rank\\algorithms\\Mini_MaxSum\\Mini_MaxSum\\Mini_MaxSum.csproj",
+      "projectUniqueName": "H:\\HackerRank\\algorithms\\Mini_MaxSum\\Mini_MaxSum\\Mini_MaxSum.csproj",
       "projectName": "Mini_MaxSum",
-      "projectPath": "H:\\hacker rank\\algorithms\\Mini_MaxSum\\Mini_MaxSum\\Mini_MaxSum.csproj",
+      "projectPath": "H:\\HackerRank\\algorithms\\Mini_MaxSum\\Mini_MaxSum\\Mini_MaxSum.csproj",
       "packagesPath": "C:\\Users\\SOHEL\\.nuget\\packages\\",
-      "outputPath": "H:\\hacker rank\\algorithms\\Mini_MaxSum\\Mini_MaxSum\\obj\\",
+      "outputPath": "H:\\HackerRank\\algorithms\\Mini_MaxSum\\Mini_MaxSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

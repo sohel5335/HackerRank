@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\hacker rank\\algorithms\\Triplets\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "H:\\HackerRank\\algorithms\\Triplets\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "H:\\hacker rank\\algorithms\\Triplets\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "H:\\HackerRank\\algorithms\\Triplets\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\SOHEL\\.nuget\\packages\\",
-      "outputPath": "H:\\hacker rank\\algorithms\\Triplets\\ConsoleApp1\\obj\\",
+      "outputPath": "H:\\HackerRank\\algorithms\\Triplets\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

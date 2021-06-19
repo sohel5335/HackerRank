@@ -1,0 +1,11 @@
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\bin\Debug\netcoreapp2.1\Mini_MaxSum.deps.json
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\bin\Debug\netcoreapp2.1\Mini_MaxSum.runtimeconfig.json
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\bin\Debug\netcoreapp2.1\Mini_MaxSum.runtimeconfig.dev.json
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\bin\Debug\netcoreapp2.1\Mini_MaxSum.dll
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\bin\Debug\netcoreapp2.1\Mini_MaxSum.pdb
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\obj\Debug\netcoreapp2.1\Mini_MaxSum.csprojAssemblyReference.cache
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\obj\Debug\netcoreapp2.1\Mini_MaxSum.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\obj\Debug\netcoreapp2.1\Mini_MaxSum.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\obj\Debug\netcoreapp2.1\Mini_MaxSum.AssemblyInfo.cs
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\obj\Debug\netcoreapp2.1\Mini_MaxSum.dll
+H:\HackerRank\algorithms\Mini_MaxSum\Mini_MaxSum\obj\Debug\netcoreapp2.1\Mini_MaxSum.pdb
