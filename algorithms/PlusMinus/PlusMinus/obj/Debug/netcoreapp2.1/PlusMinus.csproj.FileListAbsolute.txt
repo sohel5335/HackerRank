@@ -1,0 +1,11 @@
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\bin\Debug\netcoreapp2.1\PlusMinus.deps.json
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\bin\Debug\netcoreapp2.1\PlusMinus.runtimeconfig.json
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\bin\Debug\netcoreapp2.1\PlusMinus.runtimeconfig.dev.json
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\bin\Debug\netcoreapp2.1\PlusMinus.dll
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\bin\Debug\netcoreapp2.1\PlusMinus.pdb
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\obj\Debug\netcoreapp2.1\PlusMinus.csprojAssemblyReference.cache
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\obj\Debug\netcoreapp2.1\PlusMinus.csproj.CoreCompileInputs.cache
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\obj\Debug\netcoreapp2.1\PlusMinus.AssemblyInfoInputs.cache
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\obj\Debug\netcoreapp2.1\PlusMinus.AssemblyInfo.cs
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\obj\Debug\netcoreapp2.1\PlusMinus.dll
+H:\hacker rank\algorithms\PlusMinus\PlusMinus\obj\Debug\netcoreapp2.1\PlusMinus.pdb

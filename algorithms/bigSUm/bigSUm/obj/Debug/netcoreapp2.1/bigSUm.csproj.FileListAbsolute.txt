@@ -1,0 +1,10 @@
+H:\hacker rank\algorithms\bigSUm\bigSUm\bin\Debug\netcoreapp2.1\bigSUm.deps.json
+H:\hacker rank\algorithms\bigSUm\bigSUm\bin\Debug\netcoreapp2.1\bigSUm.runtimeconfig.json
+H:\hacker rank\algorithms\bigSUm\bigSUm\bin\Debug\netcoreapp2.1\bigSUm.runtimeconfig.dev.json
+H:\hacker rank\algorithms\bigSUm\bigSUm\bin\Debug\netcoreapp2.1\bigSUm.dll
+H:\hacker rank\algorithms\bigSUm\bigSUm\bin\Debug\netcoreapp2.1\bigSUm.pdb
+H:\hacker rank\algorithms\bigSUm\bigSUm\obj\Debug\netcoreapp2.1\bigSUm.csproj.CoreCompileInputs.cache
+H:\hacker rank\algorithms\bigSUm\bigSUm\obj\Debug\netcoreapp2.1\bigSUm.AssemblyInfoInputs.cache
+H:\hacker rank\algorithms\bigSUm\bigSUm\obj\Debug\netcoreapp2.1\bigSUm.AssemblyInfo.cs
+H:\hacker rank\algorithms\bigSUm\bigSUm\obj\Debug\netcoreapp2.1\bigSUm.dll
+H:\hacker rank\algorithms\bigSUm\bigSUm\obj\Debug\netcoreapp2.1\bigSUm.pdb

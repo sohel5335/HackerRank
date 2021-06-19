@@ -1,0 +1,10 @@
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.deps.json
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.runtimeconfig.json
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.runtimeconfig.dev.json
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.dll
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.pdb
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.AssemblyInfoInputs.cache
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.AssemblyInfo.cs
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.dll
+H:\hacker rank\algorithms\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.pdb

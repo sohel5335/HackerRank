@@ -1,0 +1,11 @@
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+H:\hacker rank\algorithms\Triplets\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

@@ -1,0 +1,10 @@
+H:\hacker rank\algorithms\Staircase\Staircase\bin\Debug\netcoreapp2.1\Staircase.deps.json
+H:\hacker rank\algorithms\Staircase\Staircase\bin\Debug\netcoreapp2.1\Staircase.runtimeconfig.json
+H:\hacker rank\algorithms\Staircase\Staircase\bin\Debug\netcoreapp2.1\Staircase.runtimeconfig.dev.json
+H:\hacker rank\algorithms\Staircase\Staircase\bin\Debug\netcoreapp2.1\Staircase.dll
+H:\hacker rank\algorithms\Staircase\Staircase\bin\Debug\netcoreapp2.1\Staircase.pdb
+H:\hacker rank\algorithms\Staircase\Staircase\obj\Debug\netcoreapp2.1\Staircase.csproj.CoreCompileInputs.cache
+H:\hacker rank\algorithms\Staircase\Staircase\obj\Debug\netcoreapp2.1\Staircase.AssemblyInfoInputs.cache
+H:\hacker rank\algorithms\Staircase\Staircase\obj\Debug\netcoreapp2.1\Staircase.AssemblyInfo.cs
+H:\hacker rank\algorithms\Staircase\Staircase\obj\Debug\netcoreapp2.1\Staircase.dll
+H:\hacker rank\algorithms\Staircase\Staircase\obj\Debug\netcoreapp2.1\Staircase.pdb
