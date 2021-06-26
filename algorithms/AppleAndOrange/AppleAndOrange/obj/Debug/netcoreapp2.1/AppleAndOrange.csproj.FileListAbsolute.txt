@@ -1,0 +1,11 @@
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\bin\Debug\netcoreapp2.1\AppleAndOrange.deps.json
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\bin\Debug\netcoreapp2.1\AppleAndOrange.runtimeconfig.json
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\bin\Debug\netcoreapp2.1\AppleAndOrange.runtimeconfig.dev.json
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\bin\Debug\netcoreapp2.1\AppleAndOrange.dll
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\bin\Debug\netcoreapp2.1\AppleAndOrange.pdb
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\obj\Debug\netcoreapp2.1\AppleAndOrange.csprojAssemblyReference.cache
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\obj\Debug\netcoreapp2.1\AppleAndOrange.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\obj\Debug\netcoreapp2.1\AppleAndOrange.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\obj\Debug\netcoreapp2.1\AppleAndOrange.AssemblyInfo.cs
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\obj\Debug\netcoreapp2.1\AppleAndOrange.dll
+H:\HackerRank\algorithms\AppleAndOrange\AppleAndOrange\obj\Debug\netcoreapp2.1\AppleAndOrange.pdb

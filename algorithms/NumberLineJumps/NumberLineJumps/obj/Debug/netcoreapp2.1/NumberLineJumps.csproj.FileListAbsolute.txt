@@ -1,0 +1,11 @@
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp2.1\NumberLineJumps.deps.json
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp2.1\NumberLineJumps.runtimeconfig.json
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp2.1\NumberLineJumps.runtimeconfig.dev.json
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp2.1\NumberLineJumps.dll
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\bin\Debug\netcoreapp2.1\NumberLineJumps.pdb
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp2.1\NumberLineJumps.csprojAssemblyReference.cache
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp2.1\NumberLineJumps.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp2.1\NumberLineJumps.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp2.1\NumberLineJumps.AssemblyInfo.cs
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp2.1\NumberLineJumps.dll
+H:\HackerRank\algorithms\NumberLineJumps\NumberLineJumps\obj\Debug\netcoreapp2.1\NumberLineJumps.pdb
