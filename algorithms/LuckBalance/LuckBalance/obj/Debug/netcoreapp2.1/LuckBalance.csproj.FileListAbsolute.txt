@@ -1,0 +1,11 @@
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\bin\Debug\netcoreapp2.1\LuckBalance.deps.json
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\bin\Debug\netcoreapp2.1\LuckBalance.runtimeconfig.json
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\bin\Debug\netcoreapp2.1\LuckBalance.runtimeconfig.dev.json
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\bin\Debug\netcoreapp2.1\LuckBalance.dll
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\bin\Debug\netcoreapp2.1\LuckBalance.pdb
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\obj\Debug\netcoreapp2.1\LuckBalance.csprojAssemblyReference.cache
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\obj\Debug\netcoreapp2.1\LuckBalance.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\obj\Debug\netcoreapp2.1\LuckBalance.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\obj\Debug\netcoreapp2.1\LuckBalance.AssemblyInfo.cs
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\obj\Debug\netcoreapp2.1\LuckBalance.dll
+H:\HackerRank\algorithms\LuckBalance\LuckBalance\obj\Debug\netcoreapp2.1\LuckBalance.pdb

@@ -1,0 +1,11 @@
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\netcoreapp2.1\MaximumPerimeterTriangle.deps.json
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\netcoreapp2.1\MaximumPerimeterTriangle.runtimeconfig.json
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\netcoreapp2.1\MaximumPerimeterTriangle.runtimeconfig.dev.json
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\netcoreapp2.1\MaximumPerimeterTriangle.dll
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\netcoreapp2.1\MaximumPerimeterTriangle.pdb
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\netcoreapp2.1\MaximumPerimeterTriangle.csprojAssemblyReference.cache
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\netcoreapp2.1\MaximumPerimeterTriangle.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\netcoreapp2.1\MaximumPerimeterTriangle.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\netcoreapp2.1\MaximumPerimeterTriangle.AssemblyInfo.cs
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\netcoreapp2.1\MaximumPerimeterTriangle.dll
+H:\HackerRank\algorithms\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\netcoreapp2.1\MaximumPerimeterTriangle.pdb
