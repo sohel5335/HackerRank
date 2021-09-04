@@ -1,0 +1,11 @@
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\bin\Debug\netcoreapp2.1\SubarrayDivision.deps.json
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\bin\Debug\netcoreapp2.1\SubarrayDivision.runtimeconfig.json
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\bin\Debug\netcoreapp2.1\SubarrayDivision.runtimeconfig.dev.json
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\bin\Debug\netcoreapp2.1\SubarrayDivision.dll
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\bin\Debug\netcoreapp2.1\SubarrayDivision.pdb
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\obj\Debug\netcoreapp2.1\SubarrayDivision.csprojAssemblyReference.cache
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\obj\Debug\netcoreapp2.1\SubarrayDivision.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\obj\Debug\netcoreapp2.1\SubarrayDivision.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\obj\Debug\netcoreapp2.1\SubarrayDivision.AssemblyInfo.cs
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\obj\Debug\netcoreapp2.1\SubarrayDivision.dll
+H:\HackerRank\algorithms\SubarrayDivision\SubarrayDivision\obj\Debug\netcoreapp2.1\SubarrayDivision.pdb

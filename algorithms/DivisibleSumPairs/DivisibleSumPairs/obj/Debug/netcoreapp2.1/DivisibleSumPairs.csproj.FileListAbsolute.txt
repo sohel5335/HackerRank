@@ -1,0 +1,10 @@
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp2.1\DivisibleSumPairs.deps.json
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp2.1\DivisibleSumPairs.runtimeconfig.json
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp2.1\DivisibleSumPairs.runtimeconfig.dev.json
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp2.1\DivisibleSumPairs.dll
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp2.1\DivisibleSumPairs.pdb
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp2.1\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp2.1\DivisibleSumPairs.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp2.1\DivisibleSumPairs.AssemblyInfo.cs
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp2.1\DivisibleSumPairs.dll
+H:\HackerRank\algorithms\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp2.1\DivisibleSumPairs.pdb

@@ -1,0 +1,11 @@
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\bin\Debug\netcoreapp2.1\BreakingtheRecords.deps.json
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\bin\Debug\netcoreapp2.1\BreakingtheRecords.runtimeconfig.json
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\bin\Debug\netcoreapp2.1\BreakingtheRecords.runtimeconfig.dev.json
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\bin\Debug\netcoreapp2.1\BreakingtheRecords.dll
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\bin\Debug\netcoreapp2.1\BreakingtheRecords.pdb
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\obj\Debug\netcoreapp2.1\BreakingtheRecords.csprojAssemblyReference.cache
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\obj\Debug\netcoreapp2.1\BreakingtheRecords.csproj.CoreCompileInputs.cache
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\obj\Debug\netcoreapp2.1\BreakingtheRecords.AssemblyInfoInputs.cache
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\obj\Debug\netcoreapp2.1\BreakingtheRecords.AssemblyInfo.cs
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\obj\Debug\netcoreapp2.1\BreakingtheRecords.dll
+H:\HackerRank\algorithms\BreakingtheRecords\BreakingtheRecords\obj\Debug\netcoreapp2.1\BreakingtheRecords.pdb
